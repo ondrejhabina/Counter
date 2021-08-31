@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    align-content: center;
+    background-color: cornflowerblue;
+    display: grid;
+    justify-content: center;
+    padding: 10% 0;
+}
+.count {
+    padding-bottom: 50%;
+    padding-top: 50%;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    border-radius: 4px 0px 4px 0px;
+    display: grid;
+    border-style: solid;
+    border-width: 110%;
+    border-color: burlywood;
+    width: 200%;
+    background-color: lavender;
+    padding-bottom: 20px;
+}
+button {
+    margin: auto;
+    text-transform: bold;
+    width: 50%;
+    background-color: khaki;
+    color: black;
+    font-size: 200%;
+    
+}
+button:hover {
+    background-color: rgb(230, 209, 25);
+}
